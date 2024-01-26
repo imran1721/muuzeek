@@ -1,0 +1,8 @@
+{
+  "name": "muuzeek",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d702fe97"
+}
